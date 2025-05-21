@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yaqym (Ya-keem), an <a href="https://www.linkedin.com/in/yaqym-lowery-7a0626290/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Yaqym (Ya-Keem), an <a href="https://www.linkedin.com/in/yaqym-lowery-7a0626290/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
